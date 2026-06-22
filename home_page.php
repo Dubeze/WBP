@@ -3,11 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- <?php include("includes/head-tag-contents.php");?> -->
+	<?php include("must_haves/head_tag_contents.php");?>
 </head>
 <body>
-
-<!-- <?php include("includes/design-top.php");?> -->
 
 <?php include("must_haves/nav_bar.php");?>
 

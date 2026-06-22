@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #bbbbbb;
+}
+
+.left_foot ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* spaces links out horizontally */
+}
+
+.left_foot a {
+    text-decoration: none;  /* removes underline */
+    color: #222;            
+    font-size: 14px;
+}
